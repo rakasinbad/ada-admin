@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c95c40d.chunk.css",
-    "main.js": "/static/js/main.181d0a57.chunk.js",
-    "main.js.map": "/static/js/main.181d0a57.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.de311d15.js",
-    "runtime-main.js.map": "/static/js/runtime-main.de311d15.js.map",
-    "static/js/2.4e93fa7b.chunk.js": "/static/js/2.4e93fa7b.chunk.js",
-    "static/js/2.4e93fa7b.chunk.js.map": "/static/js/2.4e93fa7b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9c95c40d.chunk.css.map": "/static/css/main.9c95c40d.chunk.css.map",
-    "static/js/2.4e93fa7b.chunk.js.LICENSE.txt": "/static/js/2.4e93fa7b.chunk.js.LICENSE.txt",
-    "static/media/NunitoSans-Black.a2cd9dc8.ttf": "/static/media/NunitoSans-Black.a2cd9dc8.ttf",
-    "static/media/NunitoSans-Regular.87d92665.ttf": "/static/media/NunitoSans-Regular.87d92665.ttf",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/ada-admin/static/css/main.9c95c40d.chunk.css",
+    "main.js": "/ada-admin/static/js/main.ac758048.chunk.js",
+    "main.js.map": "/ada-admin/static/js/main.ac758048.chunk.js.map",
+    "runtime-main.js": "/ada-admin/static/js/runtime-main.cf34ee0c.js",
+    "runtime-main.js.map": "/ada-admin/static/js/runtime-main.cf34ee0c.js.map",
+    "static/js/2.fdabf755.chunk.js": "/ada-admin/static/js/2.fdabf755.chunk.js",
+    "static/js/2.fdabf755.chunk.js.map": "/ada-admin/static/js/2.fdabf755.chunk.js.map",
+    "index.html": "/ada-admin/index.html",
+    "static/css/main.9c95c40d.chunk.css.map": "/ada-admin/static/css/main.9c95c40d.chunk.css.map",
+    "static/js/2.fdabf755.chunk.js.LICENSE.txt": "/ada-admin/static/js/2.fdabf755.chunk.js.LICENSE.txt",
+    "static/media/NunitoSans-Black.a2cd9dc8.ttf": "/ada-admin/static/media/NunitoSans-Black.a2cd9dc8.ttf",
+    "static/media/NunitoSans-Regular.87d92665.ttf": "/ada-admin/static/media/NunitoSans-Regular.87d92665.ttf",
+    "static/media/logo.103b5fa1.svg": "/ada-admin/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.de311d15.js",
-    "static/js/2.4e93fa7b.chunk.js",
+    "static/js/runtime-main.cf34ee0c.js",
+    "static/js/2.fdabf755.chunk.js",
     "static/css/main.9c95c40d.chunk.css",
-    "static/js/main.181d0a57.chunk.js"
+    "static/js/main.ac758048.chunk.js"
   ]
 }
